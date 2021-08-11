@@ -1,0 +1,1 @@
+Please limit your API requests to 10 requests a second.
